@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leontevdmitry
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning at the Moscow State University
-- 📫 How to reach me leontevdmitry0@gmail.com
+- 📫 How to reach me dmitryleontev63@gmail.com
 
 <!---
 leontevdmitry/leontevdmitry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
